@@ -3,7 +3,7 @@
 # Licensed under the Raphielscape Public License, Version 1.d (the "License");
 # you may not use this file except in compliance with the License.
 #
-""" Userbot module for kanging stickers or making new ones. Thanks @rupansh"""
+""" Userbot module for kanging stickers or making new ones. Thanks @Sekhre"""
 
 import io
 import math
@@ -73,7 +73,7 @@ async def kang(event):
             emoji = "🤔"
 
     packname = f"a{user.id}_by_{pack_username}_{number}{'_anim' if is_anim else ''}"
-    packtitle = (f"@{user.username or user.first_name}'s remix Pack "
+    packtitle = (f"@{user.username or user.first_name}"
                 f"{number}{' animated' if is_anim else ''}")
     response = urllib.request.urlopen(
             urllib.request.Request(f'http://t.me/addstickers/{packname}'))
