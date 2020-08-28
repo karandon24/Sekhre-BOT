@@ -228,7 +228,7 @@ async def amireallyalive(alive):
              f"`Bot Version🤘: Remix {BOT_VER}` \n"
              f"==================================== \n"
              f"`User 👨‍🚀`: {DEFAULTUSER} \n"
-             f"`Maintainer 🏄‍♂️`: @Sekaru_Kun \n"
+             f"`Maintainer 🏄‍♂️`: "@Sekaru_Kun" \n"
              f"`Bot Uptime ⏱️`: {uptime} \n"
              f"====================================\n")
     if ALIVE_LOGO:
