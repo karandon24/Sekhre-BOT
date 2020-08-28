@@ -166,7 +166,7 @@ async def notifon(non_event):
     await non_event.edit("`Notifications from unapproved PM's unmuted!`")
 
 
-@register(outgoing=True, pattern="^.approve$")
+@register(outgoing=True, pattern="^.pm$")
 async def approvepm(apprvpm):
     """ For .pm command, give someone the permissions to PM you. """
     try:
