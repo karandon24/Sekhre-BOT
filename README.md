@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/sahyam2019/oub-remix.svg?branch=sql-extended)](https://travis-ci.com/sahyam2019/oub-remix) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/38fee611df7c4312be63a15cad64a50a)](https://www.codacy.com/manual/sahyam2019/oub-remix?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sahyam2019/oub-remix&amp;utm_campaign=Badge_Grade) ![Last Commit](https://img.shields.io/github/last-commit/sahyam2019/oub-remix) ![Contributers](https://img.shields.io/github/contributors/sahyam2019/oub-remix) ![Forks](https://img.shields.io/github/forks/sahyam2019/oub-remix)     
-# Project OpenUserBot Remix by Sekhre
+# Project Remix by Sekhre
 
 ![logo](https://telegra.ph/file/7c87d393874eb9bd17ebc.jpg)
 
@@ -48,4 +48,4 @@ Thanks for all :
 
 ## License
 
-This userbot licensed on [Raphielscape Public License](https://github.com/sahyam2019/oub-remix/blob/sql-extended/LICENSE) - Version 1.d, February 2020
+This userbot licensed on [Raphielscape Public License](https://github.com/Sekhre/oub-remix/blob/sql-extended/LICENSE) - Version 1.d, February 2020
